@@ -1,4 +1,8 @@
 - Install by choosing trial option during setup.
 
 - Replace patched file in program directory.woshi
+<<<<<<< HEAD
 修复bug
+=======
+商城项目100%
+>>>>>>> dev
