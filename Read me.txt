@@ -1,3 +1,4 @@
 - Install by choosing trial option during setup.
 
 - Replace patched file in program directory.woshi
+商城项目50%
