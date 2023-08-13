@@ -1,0 +1,3 @@
+- Install by choosing trial option during setup.
+
+- Replace patched file in program directory.
